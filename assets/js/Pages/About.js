@@ -1,5 +1,4 @@
 const About = {
-  title: 'About - Vue',
   template: `
     <div>
       <h1>Ini About</h1>

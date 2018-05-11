@@ -1,5 +1,4 @@
 const Home = {
-  title: 'Home - Vue',
   template: `
     <div>
       <h1>Ini {{text}}</h1>
